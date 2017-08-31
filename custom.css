@@ -2,4 +2,10 @@ header .phone.phone-android{
     width: 320px !important;
     padding: 80px 20px !important;
     height: 560px !important;
+    margin-top: 60px !important;
+}
+
+iframe{
+    width: 320px !important;
+    height: 550px !important;
 }
